@@ -20,28 +20,23 @@ design [here](https://www.figma.com/design/7tAjzzHmFsGRbOY46OkGuS/Coffee-Shop-Mo
 ## Screenshots
 
 Screenshots of the Coffee Shop App:
-![Onboarding Screen](assets/screenshots/onboarding.png)
-![Home Screen](assets/screenshots/home.png)
-![Details](assets/screenshots/detail.png)
-![Google Maps](assets/screenshots/delivery.png)
-![Order](assets/screenshots/order.png)
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
 
   <!-- Screenshot 1 -->
-  <img src="./assets/screenshots/onboarding.png" alt="Onboarding" style="width: 20%; height: auto;">
+  <img src="./assets/screenshots/onboarding.webp" alt="Onboarding" style="width: 20%; height: auto;">
 
   <!-- Screenshot 2 -->
-  <img src="./assets/screenshots/home.png" alt="Home" style="width: 20%; height: auto;">
+  <img src="./assets/screenshots/home.webp" alt="Home" style="width: 20%; height: auto;">
 
   <!-- Screenshot 3 -->
-  <img src="./assets/screenshots/detail.png" alt="Detail" style="width: 20%; height: auto;">
+  <img src="./assets/screenshots/detail.webp" alt="Detail" style="width: 20%; height: auto;">
 
   <!-- Screenshot 4 -->
-  <img src="./assets/screenshots/order.png" alt="Order" style="width: 20%; height: auto;">
+  <img src="./assets/screenshots/order.webp" alt="Order" style="width: 20%; height: auto;">
 
   <!-- Screenshot 5 -->
-  <img src="./assets/screenshots/delivery.png" alt="Delivery" style="width: 20%; height: auto;">
+  <img src="./assets/screenshots/delivery.webp" alt="Delivery" style="width: 20%; height: auto;">
 
 </div>
 

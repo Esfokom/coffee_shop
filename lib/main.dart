@@ -1,5 +1,7 @@
+import 'package:coffee_shop/screens/delivery.dart';
 import 'package:coffee_shop/screens/home.dart';
 import 'package:coffee_shop/screens/onboarding.dart';
+import 'package:coffee_shop/screens/order.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,6 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Coffee Shop',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -22,6 +25,8 @@ class MyApp extends StatelessWidget {
       routes: {
         '/onboarding': (context) => const Onboarding(),
         '/home': (context) => const Home(),
+        '/order': (context) => const Order(),
+        '/delivery': (context) => const Delivery(),
       },
     );
   }
